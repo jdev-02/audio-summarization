@@ -10,7 +10,7 @@ const client = new AssemblyAI({
 const run = async () => {
   try {
     // Define the local file path to the audio file
-    const filePath = "C:\\Users\\jgooh\\Downloads\\example.mp3"
+    const filePath = "C:\\Users\\YourName\\Downloads\\example.mp3"
     
     console.log("Uploading file to AssemblyAI...") // Log message indicating file upload
     // Upload the local audio file to AssemblyAI and get the upload URL
