@@ -30,7 +30,7 @@ AutoSummarize is a simple tool that helps you turn audio files (like lectures or
 1. Open the `autosummarize.js` file in a text editor (like Notepad or VS Code).
 2. Find this line:
    ```javascript
-   const filePath = "C:\\Users\\jgooh\\Downloads\\example.mp3"
+   const filePath = "C:\\Users\\YourName\\Downloads\\example.mp3"
    ```
 3. Replace it with the location of your audio file. For example:
    ```javascript
